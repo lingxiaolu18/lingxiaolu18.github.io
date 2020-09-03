@@ -12,7 +12,7 @@ github_repo: "https://github.com/lingxiaolu18/lingxiaolu18.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
-sidebar-avatar: https://github.com/lingxiaolu18/lingxiaolu18.github.io/tree/master/img/81720c41be917ef6118025fd852921c3.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/lingxiaolu18/lingxiaolu18.github.io/img/81720c41be917ef6118025fd852921c3.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
