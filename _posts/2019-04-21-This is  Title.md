@@ -14,7 +14,7 @@ This question is from Leetcode weekly contest 205.
 
 # O(N^2) PrevCalculate
 
-```Java
+```bash
 class Solution {
     public int numTriplets(int[] nums1, int[] nums2) {
         Map<Integer, Map<Integer, Integer>> map1 = new HashMap();
