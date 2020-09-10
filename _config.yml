@@ -57,7 +57,7 @@ kramdown:
 
 
 # Disqus（https://disqus.com/）
-disqus_username: Shiyu Feng
+disqus_username: shiyufeng
 
 # Gitalk
 gitalk:
@@ -98,15 +98,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WP",
-        href: "https://wangpei.ink"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
         title: "Apple",
         href: "https://apple.com"
-    },{
+    },
+    {
         title: "Apple Developer",
         href: "https://developer.apple.com/"
     }
