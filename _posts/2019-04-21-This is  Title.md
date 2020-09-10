@@ -2,8 +2,8 @@
 layout:     post
 title:      Leetcode1577
 subtitle:   Number of Ways Where Square of Number Is Equal to Product of Two Numbers
-date:       2019-04-21
-author:     Shiyu Feng
+date:       2020-09-10
+author:     SY
 header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
