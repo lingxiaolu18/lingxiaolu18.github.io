@@ -4,7 +4,7 @@ title:      Leetcode1577
 subtitle:   Number of Ways Where Square of Number Is Equal to Product of Two Numbers
 date:       2020-09-10
 author:     SY
-header-img: img/leetcode.jpeg
+header-img: img/algorithms.png
 catalog: true
 tags:
     - Leetcode
