@@ -10,9 +10,9 @@ tags:
     - Leetcode
     - HashMap
 ---
+This question is from Leetcode weekly contest 205.
 
-
-# Title
+# O(N^2) PrevCalculate
 
 ```Java
 class Solution {
