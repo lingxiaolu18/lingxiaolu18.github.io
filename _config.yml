@@ -55,7 +55,12 @@ highlighter: rouge
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-# 评论系统
+---
+layout: default
+comments: true
+# other options
+---
+# comments
 # Disqus（https://disqus.com/）
 disqus_username: shiyufeng
 
