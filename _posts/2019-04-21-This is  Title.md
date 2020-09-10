@@ -58,7 +58,7 @@ Constraints:
 
 # O(N^2) PrevCalculate
 
-```
+```bash
 class Solution {
     public int numTriplets(int[] nums1, int[] nums2) {
         Map<Integer, Map<Integer, Integer>> map1 = new HashMap();
